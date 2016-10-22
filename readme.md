@@ -438,6 +438,7 @@
 
 ### UI Frameworks
 
+ - [Ant Design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React-based implementation.
  - [elemental](https://github.com/elementalui/elemental) - A flexible and beautiful UI framework for React.js.
  - [rctui](https://github.com/Lobos/react-ui) - A collection of components for React.
  - [belle](https://github.com/nikgraf/belle) - Configurable React Components with great UX.
